@@ -1,5 +1,6 @@
 # Entrega: Estilizando um Menu de Restaurante
 
+Link app - https://github.com/Kenzie-Academy-Brasil-Developers/estilizando-menu-restaurante-sprint-2-vitorsoaresf
 Para essa entrega você irá seguir as seguintes instruções para chegar até ambos os layouts sugeridos para o menu.
 
 ## Menu 1
